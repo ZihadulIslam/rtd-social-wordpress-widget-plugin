@@ -1,0 +1,21 @@
+/*
+ * Plugin Name: RtdSocial Widget
+ * Plugin URI: http://rootdesignwp.com
+ * Description: A little widget to add your social profiles.
+ * Author: rootdesign
+ * Version: 1.0
+ * Author URI: http://rootdesignwp.com
+ * License: GPL2+
+*/
+
+
+.social-icon i {
+  background: inherit;
+  border: 1px solid #ddd;
+  color: #dd0e0e;
+  font-size: 22px;
+  height: 30px;
+  margin: 5px;
+  padding: 3px 5px;
+  width: 30px;
+}
